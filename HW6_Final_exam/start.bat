@@ -1,0 +1,10 @@
+start python3 receiver_Application_layer.py
+start python3 receiver_Transport_layer.py
+start python3 receiver_Network_layer.py
+start python3 receiver_Datalink_layer.py
+start python3 receiver_Physical_layer.py
+start python3 sender_Physical_layer.py
+start python3 sender_Datalink_layer.py
+start python3 sender_Network_layer.py
+start python3 sender_Transport_layer.py
+start python3 sender_Application_layer.py
